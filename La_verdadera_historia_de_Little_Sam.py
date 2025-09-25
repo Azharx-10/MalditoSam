@@ -26,7 +26,7 @@ st.audio("ytmp3free.cc_musica-de-fondo-para-noticiero-urgente-cortina-musical-de
 
 
 #subtitulo
-st.header("Los primeros pasos de Sam", divider=True)
+st.header("Los primeros pasos de Sam")
 
 #columna
 col1, col3 = st.columns(2)
@@ -63,6 +63,7 @@ col1.write("Desde la invención del capitalismo hasta la abolición de la esclav
 
 col1.write("El pequeño Sam ha sido figura de salvador desde su salto a la fama en 2003 cuando aseguró ser el anticristo en su video más reconocido para su canal de youtube, en donde acabó descubriendo gracias a un sacerdote  que realmente era el elegido del señor")
 st.write("Lo que ninguno de nosotros sabía era que realmente el le había pagado a sacerdote para _chantajear_ a la población para que nadie se enterara que realmente es un demonio... Ahora todos lo sabemos")
+
 
 
 
