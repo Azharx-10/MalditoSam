@@ -14,3 +14,4 @@ st.set_page_config(
 
 pg = st.navigation(["HomePage.py","La_verdadera_historia_de_Little_Sam.py", "La_polémica.py", "Cómo_fue_descubierto.py", "La_pelicula.py", "Otras_noticias.py", "Información_autor.py"])
 pg.run()
+
