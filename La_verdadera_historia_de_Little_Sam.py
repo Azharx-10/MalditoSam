@@ -56,13 +56,14 @@ col3.image("Captura de pantalla 2025-08-04 155837.png", caption="No le creas nad
 
 
 #texto
-col1.write("_Algunos de sus aportes:_ ", divider= True)
+col1.header("_Algunos de sus aportes:_ ", divider= True)
 
 col1.write("Little Sam desde su nacimiento ha hecho muchos aportes para la humanidad entera;")
 col1.write("Desde la invención del capitalismo hasta la abolición de la esclavitud en la casa de la monse, (donde tenían decenas de colombianos trabajando días enteros solo por un trocito de pan)")
 
 col1.write("El pequeño Sam ha sido figura de salvador desde su salto a la fama en 2003 cuando aseguró ser el anticristo en su video más reconocido para su canal de youtube, en donde acabó descubriendo gracias a un sacerdote  que realmente era el elegido del señor")
 st.write("Lo que ninguno de nosotros sabía era que realmente el le había pagado a sacerdote para _chantajear_ a la población para que nadie se enterara que realmente es un demonio... Ahora todos lo sabemos")
+
 
 
 
